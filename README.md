@@ -53,9 +53,10 @@ public class Nested {
 				cost=qty*4;
 			}
 			System.out.println("The cost of the Banana = "+cost);
-			
+			System.out.println("The cost of the Orange = "+cost);
 				}		
 
 	}
 
 }
+
